@@ -1,0 +1,9 @@
+[cache_server]
+varnish
+[nodejs]
+nodejs1
+nodejs2
+[db]
+mysql
+[local]
+local
